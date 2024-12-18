@@ -23,7 +23,7 @@ Hi there! 👋 I'm Arnav.
 
 ## 📊 GitHub Stats  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AK-matrix&show_icons=true&theme=radical)  
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AK-matrix&show_icons=true&theme=radical)  -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-matrix&layout=compact&theme=radical)  
 
 ---
