@@ -16,8 +16,9 @@ Hi there! 👋 I'm Arnav.
 
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)  ![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white) 
 
-![HTML](https://img.icons8.com/color/96/000000/html-5.png)  
-![CSS](https://img.icons8.com/color/96/000000/css3.png) 
+![HTML](https://img.shields.io/badge/HTML-grey?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3&logoColor#2965F1)
+
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
 
