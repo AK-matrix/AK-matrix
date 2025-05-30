@@ -4,7 +4,7 @@ Hi there! 👋 I'm Arnav.
 
 ### 🚀 About Me  
 - 🎓 Studying Computer Science at NUS. 
-- 🤖 Interested in **neural networks**, **electronic trading**, and **web development**.
+- 🤖 Interested in **neural networks** and **electronic trading**.
 - 📈 Passionate about **investing** and exploring financial markets.
 
 ---
@@ -32,11 +32,6 @@ Hi there! 👋 I'm Arnav.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-matrix&layout=compact&theme=radical)  
 
 ---
-### 🌟 Hobbies  
-- 🎸 Playing the guitar.  
-- 📚 Reading about AI.  
-- ✈️ Exploring new places.  
-
 
 ## 🌟 Let's Connect  
 
