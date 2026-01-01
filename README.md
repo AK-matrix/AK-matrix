@@ -2,7 +2,7 @@
 
 I’m a Computer Science student at NUS who enjoys building things that actually work.
 
-I spend time across software engineering and applied ML — from backend systems and APIs to ML pipelines, optimization, and model integration. I like understanding trade-offs, structuring systems cleanly, and getting end-to-end flows right rather than polishing demos.
+I spend time across software engineering and applied ML, from backend systems and APIs to ML pipelines, optimization, and model integration. I like understanding trade-offs, structuring systems cleanly, and getting end-to-end flows right.
 
 I’ve worked with:
 - neural networks and applied machine learning
